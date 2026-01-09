@@ -5,7 +5,7 @@ export const FacultyCoordinators = () => {
   const coordinators = [
     { name: "Dr. Ch. Ramesh Babu", phone: "9985677767", image: "/placeholder.svg" },
     { name: "Dr. V. Subba Ramaiah", phone: "9393005221" },
-    { name: "Dr. A. Ratna Raju", phone: "8328255486", image: "/placeholder.svg" },
+    { name: "Dr. A. Ratna Raju", phone: "8328255486", image: "/coordinators/ratna-raju.png" },
     { name: "Dr. P. Shyam Sunder", phone: "9666660051", image: "https://mgit.ac.in/wp-content/uploads/2024/03/Shyam-Sunder.jpeg" },
     { name: "Dr. K. Madhubabu", phone: "7780327440", image: "/placeholder.svg" },
     { name: "Dr. Meera Alphy", phone: "8547586410", image: "/placeholder.svg" }
