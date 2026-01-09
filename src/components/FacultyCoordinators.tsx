@@ -8,7 +8,7 @@ export const FacultyCoordinators = () => {
     { name: "Dr. A. Ratna Raju", phone: "8328255486", image: "/coordinators/ratna-raju.png" },
     { name: "Dr. P. Shyam Sunder", phone: "9666660051", image: "https://mgit.ac.in/wp-content/uploads/2024/03/Shyam-Sunder.jpeg" },
     { name: "Dr. K. Madhubabu", phone: "7780327440", image: "/placeholder.svg" },
-    { name: "Dr. Meera Alphy", phone: "8547586410", image: "/placeholder.svg" }
+    { name: "Dr. Meera Alphy", phone: "8547586410", image: "/coordinators/meera-alphy.png" }
   ];
 
   return (
